@@ -1,9 +1,9 @@
 import random
-print("@TweakPy------@Filza2")
+print("@ittz_danyar------@tools_vip")
 print('<—————————————————————————————->')
 print(''' LIST PASS ''')
-Gie=input("خلطه الحروف حقتك؟:")
-mas=int(input("طول الباس ؟:"))
+Gie=input("ناوێک بنوسە:")
+mas=int(input("چەندت دەوێ؟:"))
 print('<——————————————————————————————>')
 def GetPassword(data):
   Max = (mas) 
