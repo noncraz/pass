@@ -3,7 +3,7 @@ print("@ittz_danyar------@tools_vip")
 print('<—————————————————————————————->')
 print(''' LIST PASS ''')
 Gie=input("ناوێک بنوسە:")
-mas=int(input("چەندت دەوێ؟:"))
+mas=int(input("چەند پیت بێ؟:"))
 print('<——————————————————————————————>')
 def GetPassword(data):
   Max = (mas) 
